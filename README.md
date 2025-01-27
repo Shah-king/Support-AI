@@ -1,3 +1,25 @@
+# AI Customer Support Chatbot
+
+An intelligent chatbot designed to provide efficient and responsive customer support. Integrated into a web application, this chatbot enhances user interactions by answering queries, providing product information, and assisting customers with troubleshooting.
+
+## Features
+- **Natural Language Processing**: Understands and responds to user queries in a conversational manner.
+- **Real-Time Interaction**: Provides instant replies to improve the customer support experience.
+- **Seamless Integration**: Embedded into a web application for easy access.
+- **Customizable Responses**: Tailored answers based on customer queries and product-related data.
+- **Fast and Scalable**: Ensures quick response times and handles multiple users simultaneously.
+
+## Tech Stack
+- **Frontend**: Next.js, React
+- **Backend**: Gemini
+- **Deployment**: Vercel
+- **AI Model**: Powered by AI/ML tools for NLP
+- **Version Control**: Git/GitHub
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
